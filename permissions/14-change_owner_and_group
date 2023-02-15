@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod vincent:staff /permissions
+chmod -R vincent:staff /permissions
