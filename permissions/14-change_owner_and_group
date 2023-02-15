@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R vincent:staff /permissions
+chmod -R vincent:staff /root/holbertonschool-shell/permissions
