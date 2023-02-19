@@ -1,2 +1,2 @@
 #!/bin/bash 
-pritnf "%.2f\n" $NUM
+pritnf "%0.2f\n" $NUM
